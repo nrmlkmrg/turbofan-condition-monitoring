@@ -1,0 +1,12 @@
+# Ignore data folder and archives
+CMAPSSData/
+*.7z
+*.zip
+
+# Ignore Python & Jupyter artifacts
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+
